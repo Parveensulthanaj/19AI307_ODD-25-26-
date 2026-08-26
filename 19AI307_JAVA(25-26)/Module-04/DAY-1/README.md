@@ -29,8 +29,8 @@ To write a Java program that demonstrates a NullPointerException when calling .t
  ```
 /*
 Program to implement a Exception Handling using Java
-Developed by: SELSHIYA F
-RegisterNumber: 212224060241
+Developed by: PARVEEN SULTHANA J
+RegisterNumber: 212224040233
 */
 ```
 
