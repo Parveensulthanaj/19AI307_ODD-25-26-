@@ -25,6 +25,14 @@ To develop a Java program that accepts values of different data types from the u
 
 
 ## PROGRAM:
+```
+/*
+Program to implement a Synchronization concept using Java
+Developed by: PARVEEN SULTHANA J
+RegisterNumber: 212224040233
+*/
+```
+
 ## Sourcecode.java:
  ```
 import java.util.Scanner;
