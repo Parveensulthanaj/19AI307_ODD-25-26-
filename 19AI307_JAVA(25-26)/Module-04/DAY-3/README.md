@@ -34,8 +34,8 @@ To write a Java program demonstrating aggregation, where a Department contains m
  ```
 /*
 Program to implement a Composition Concepts in Java
-Developed by: SELSHIYA F
-RegisterNumber: 212224060241
+Developed by: PARVEEN SULTHANA J
+RegisterNumber: 212224040233
 */
 ```
 
